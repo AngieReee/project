@@ -1,0 +1,67 @@
+.top {
+     background-color: #FF4500;
+     padding: 15px 0px 15px 30px;
+     color: #FFFFFF;
+     font-size: 18px;
+     font-weight: lighter;
+     display: flex;
+}
+.sign {
+    margin: 0px 0px 0px 600px;
+}
+.znak {
+    margin: 0px 0px 0px 8px;
+}
+.pic {
+    margin: 2px 0px 0px 8px;
+    width: 20px;
+    height: 15px;
+}
+.cou {
+    margin: 0px 0px 0px 3px;
+}
+.main {
+     padding: 30px 0px 30px 30px;
+     color: #000000;
+     font-size: 35px;
+     font-weight: 500;
+     display: flex;
+}
+.first {
+    margin: 8px 0px 0px 230px;
+    font-size: 20px;
+}
+.second {
+    margin: 8px 0px 0px 30px;
+    font-size: 20px;
+}
+.third {
+    margin: 8px 0px 0px 30px;
+    font-size: 20px;
+}
+.fourth {
+    margin: 8px 0px 0px 30px;
+    font-size: 20px;
+}
+.fifth {
+    margin: 8px 0px 0px 30px;
+    font-size: 20px;
+}
+.sixth {
+    margin: 8px 0px 0px 30px;
+    font-size: 20px;
+}
+.poisk {
+    margin: 10px 0px 0px 235px;
+    width: 21px;
+    height: 21px;
+}
+.poiskk {
+    margin: 9px 0px 0px 15px;
+    width: 24px;
+    height: 26px;
+}
+.kartinka {
+    width: 1488px;
+    height: 550px;
+}
